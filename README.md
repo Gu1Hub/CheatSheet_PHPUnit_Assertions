@@ -3,9 +3,9 @@ Generate cheatsheet with Beautiful Soup for PHPUnit assertions
 
 -> PHPUnit.xls
 
-#Use
+# Use
 python3 mainGenerate.py
 
-#Tests
+# Tests
 python3 test_xlsGenerate.py
 python3 beautifulScrap.py
